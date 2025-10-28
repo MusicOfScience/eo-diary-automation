@@ -1,0 +1,1 @@
+# eo-diary-automation
